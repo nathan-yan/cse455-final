@@ -1,6 +1,9 @@
 # CSE455 Final
 A Rubiks cube color extractor
 
+## Video Presentation
+https://drive.google.com/file/d/1TDALr_oQmFqbNRe2IXdpCaFQGT7dCGfA/view?usp=sharing
+
 ### Problem Description
 Entering face colors for a given Rubiks cube state is generally manual and labor intensive, as each of the 9 * 6 facelets on the cube must be keyed in manually. The goal of the project is to create a program that can identify the facelets and get their colors automatically, requiring the user only to show each of the 6 sides to the camera in order to read in the full state of the cube.
 
