@@ -1,4 +1,4 @@
-# cse455-final
+# CSE455 Final
 A Rubiks cube color extractor
 
 ### Problem Description
